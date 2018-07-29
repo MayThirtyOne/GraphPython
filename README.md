@@ -50,5 +50,12 @@ Both, out.txt and equal.txt are required to contain the data in the following fo
 7. Changing resolution of output image - Line 26
 8. Changing type and name of output image - Line 34
 
+# Output files
+1. out.png
+2. out.pdf
+
+# Sample Output
+
+![alt tag](https://i.imgur.com/rk7F7Rh.png "Sample Graph")
 
 
